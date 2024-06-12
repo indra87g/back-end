@@ -1,4 +1,4 @@
-# Belajar Frontend
+# Belajar Backend
 
-[belajarfrontend.org](https://belajarfrontend.org) adalah website yang menyediakan
-kursus Frontend Development gratis untuk pemula.
+[BelajarBackend](https://belajarbackend.surge.sh) adalah website yang menyediakan
+kursus Backend Development gratis untuk pemula.
